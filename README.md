@@ -4,7 +4,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](https://www.python.org/)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 [![Generic badge](https://img.shields.io/badge/STATUS-COMPLETED-<COLOR>.svg)](https://shields.io/)
-[![GitHub license](https://img.shields.io/github/license/teyang-lau/Dog_Breeds_Classification_CNN.svg)](https://github.com/teyang-lau/Dog_Breeds_Classification_CNN/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/teyang-lau/Pneumonia_Detection.svg)](https://github.com/teyang-lau/Pneumonia_Detection/blob/master/LICENSE)
 
 Author: TeYang, Lau <br>
 Last Updated: 14 July 2020
